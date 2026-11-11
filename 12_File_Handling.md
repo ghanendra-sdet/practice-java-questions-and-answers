@@ -30,7 +30,7 @@ Write a Java program to implement: **create a new file on disk**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -45,7 +45,7 @@ Write a Java program to implement: **write text to a file**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -60,7 +60,7 @@ Write a Java program to implement: **read text from a file**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -75,7 +75,7 @@ Write a Java program to implement: **append text to an existing file**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -90,7 +90,7 @@ Write a Java program to implement: **copy content from one file to another**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -105,7 +105,7 @@ Write a Java program to implement: **move a file from one directory to another**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -120,7 +120,7 @@ Write a Java program to implement: **delete a file**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -135,7 +135,7 @@ Write a Java program to implement: **read and parse a CSV file in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -150,7 +150,7 @@ Write a Java program to implement: **implement a Log File Analyzer**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -165,6 +165,6 @@ Write a Java program to implement: **implement a Student Record System that save
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---

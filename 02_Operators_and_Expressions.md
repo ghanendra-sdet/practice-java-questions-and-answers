@@ -35,7 +35,7 @@ Write a Java program to implement: **find the largest of two numbers using terna
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -50,7 +50,7 @@ Write a Java program to implement: **find the largest of three numbers**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -65,7 +65,7 @@ Write a Java program to implement: **find the smallest of three numbers**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -80,7 +80,7 @@ Write a Java program to implement: **check if a number is even or odd**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -95,7 +95,7 @@ Write a Java program to implement: **check if a number is positive, negative, or
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -110,7 +110,7 @@ Write a Java program to implement: **check if a number is divisible by 5 and 11*
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -125,7 +125,7 @@ Write a Java program to implement: **check if one number is a multiple of anothe
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -140,7 +140,7 @@ Write a Java program to implement: **calculate the power of a number using arith
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -155,7 +155,7 @@ Write a Java program to implement: **calculate the square root of a number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -170,7 +170,7 @@ Write a Java program to implement: **calculate the cube root of a number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -185,7 +185,7 @@ Write a Java program to implement: **check if a year is a leap year**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -200,7 +200,7 @@ Write a Java program to implement: **check voting eligibility based on age**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -215,7 +215,7 @@ Write a Java program to implement: **calculate profit or loss**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -230,7 +230,7 @@ Write a Java program to implement: **calculate discount on a purchase**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -245,6 +245,6 @@ Write a Java program to implement: **calculate tax based on income slabs**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---

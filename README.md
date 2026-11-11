@@ -16,7 +16,7 @@ Track your progress by marking completed programs and advancing through each cat
 
 | Category | File | Programs | Progress |
 | :--- | :--- | :---: | :--- |
-| 01 | [Basic Java Programs](01_Basic_Java_Programs.md) | 25 | [ ] 0 / 25 |
+| 01 | [Basic Java Programs](01_Basic_Java_Programs.md) | 25 | [ ] 7 / 25 |
 | 02 | [Operators & Expressions](02_Operators_and_Expressions.md) | 15 | [ ] 0 / 15 |
 | 03 | [If-Else Programs](03_If_Else_Programs.md) | 20 | [ ] 0 / 20 |
 | 04 | [Loops Programs](04_Loops_Programs.md) | 30 | [ ] 0 / 30 |

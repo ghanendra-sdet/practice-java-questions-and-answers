@@ -50,7 +50,7 @@ class Main {
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -60,7 +60,7 @@ class Main {
 Write a Java program to implement: **print your name**.
 
 ### 💻 Solution
-```java Programs
+```java
 class Main {
     public static void main(String[] args) {
 
@@ -71,7 +71,7 @@ class Main {
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -113,7 +113,7 @@ class Main {
 }
 ```
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -242,7 +242,7 @@ class Main {
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -306,7 +306,7 @@ class Main {
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -353,7 +353,7 @@ class Main {
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -396,8 +396,10 @@ class Main {
 
     }
 }
+```
+
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -412,7 +414,7 @@ Write a Java program to implement: **calculate the perimeter of a circle**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -427,7 +429,7 @@ Write a Java program to implement: **convert temperature from Celsius to Fahrenh
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -442,7 +444,7 @@ Write a Java program to implement: **convert temperature from Fahrenheit to Cels
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -458,7 +460,7 @@ Hellow worlds
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -473,7 +475,7 @@ Write a Java program to implement: **calculate Compound Interest (CI)**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -488,7 +490,7 @@ Write a Java program to implement: **calculate the percentage of marks**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -503,7 +505,7 @@ Write a Java program to implement: **calculate the average of N numbers**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -518,7 +520,7 @@ Write a Java program to implement: **find the ASCII value of a character**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -533,7 +535,7 @@ Write a Java program to implement: **display the sizes of different data types i
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -548,7 +550,7 @@ Write a Java program to implement: **convert a given number of days into years, 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -563,7 +565,7 @@ Write a Java program to implement: **calculate the gross salary of an employee**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -578,7 +580,7 @@ Write a Java program to implement: **calculate the net salary of an employee**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -593,7 +595,7 @@ Write a Java program to implement: **perform currency conversion**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -608,7 +610,7 @@ Write a Java program to implement: **calculate Body Mass Index (BMI)**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -623,7 +625,7 @@ Write a Java program to implement: **calculate electricity bill based on units c
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -638,7 +640,7 @@ Write a Java program to implement: **calculate student grades based on marks**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -653,7 +655,7 @@ Write a Java program to implement: **calculate age based on date of birth**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -668,6 +670,6 @@ Write a Java program to implement: **implement a simple calculator with basic op
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---

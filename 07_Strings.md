@@ -55,7 +55,7 @@ Write a Java program to implement: **reverse a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -70,7 +70,7 @@ Write a Java program to implement: **check if a string is a palindrome**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -85,7 +85,7 @@ Write a Java program to implement: **count the number of vowels in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -100,7 +100,7 @@ Write a Java program to implement: **count the number of consonants in a string*
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -115,7 +115,7 @@ Write a Java program to implement: **count the number of digits in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -130,7 +130,7 @@ Write a Java program to implement: **count the number of words in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -145,7 +145,7 @@ Write a Java program to implement: **count the number of spaces in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -160,7 +160,7 @@ Write a Java program to implement: **convert a string to uppercase**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -175,7 +175,7 @@ Write a Java program to implement: **convert a string to lowercase**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -190,7 +190,7 @@ Write a Java program to implement: **toggle case of characters in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -205,7 +205,7 @@ Write a Java program to implement: **remove all vowels from a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -220,7 +220,7 @@ Write a Java program to implement: **remove all spaces from a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -235,7 +235,7 @@ Write a Java program to implement: **remove duplicate characters from a string**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -250,7 +250,7 @@ Write a Java program to implement: **sort characters in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -265,7 +265,7 @@ Write a Java program to implement: **compare two strings**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -280,7 +280,7 @@ Write a Java program to implement: **perform string compression**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -295,7 +295,7 @@ Write a Java program to implement: **find the frequency of each character in a s
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -310,7 +310,7 @@ Write a Java program to implement: **find the first non-repeated character in a 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -325,7 +325,7 @@ Write a Java program to implement: **find the first repeated character in a stri
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -340,7 +340,7 @@ Write a Java program to implement: **check if two strings are anagrams of each o
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -355,7 +355,7 @@ Write a Java program to implement: **check if one string is a rotation of anothe
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -370,7 +370,7 @@ Write a Java program to implement: **find the longest word in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -385,7 +385,7 @@ Write a Java program to implement: **find the shortest word in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -400,7 +400,7 @@ Write a Java program to implement: **reverse words in a given sentence**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -415,7 +415,7 @@ Write a Java program to implement: **capitalize the first letter of each word in
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -430,7 +430,7 @@ Write a Java program to implement: **perform substring search**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -445,7 +445,7 @@ Write a Java program to implement: **replace a substring with another string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -460,7 +460,7 @@ Write a Java program to implement: **demonstrate StringBuilder and StringBuffer 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -475,7 +475,7 @@ Write a Java program to implement: **check if a string is a Pangram**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -490,7 +490,7 @@ Write a Java program to implement: **check if a string is an Isogram**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -505,7 +505,7 @@ Write a Java program to implement: **convert a Roman numeral to an Integer**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -520,7 +520,7 @@ Write a Java program to implement: **convert an Integer to a Roman numeral**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -535,7 +535,7 @@ Write a Java program to implement: **check for valid parentheses in an expressio
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -550,7 +550,7 @@ Write a Java program to implement: **find the longest common prefix among an arr
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -565,6 +565,6 @@ Write a Java program to implement: **find the longest palindromic substring in a
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
