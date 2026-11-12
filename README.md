@@ -30,6 +30,7 @@ Track your progress by marking completed programs and advancing through each cat
 | 12 | [File Handling](12_File_Handling.md) | 10 | [ ] 0 / 10 |
 | 13 | [Java 8 Features](13_Java_8_Features.md) | 15 | [ ] 0 / 15 |
 | 14 | [Advanced DSA & Interview Programs](14_Advanced_DSA_and_Interview_Programs.md) | 50 | [ ] 0 / 50 |
+| | **Total** | **350** | **7 / 350** |
 
 ---
 
@@ -42,6 +43,20 @@ Track your progress by marking completed programs and advancing through each cat
    // Write your Java solution here
    ```
 5. Save your file, then commit and push your changes.
+
+## ▶️ How to Run a Solution
+Every solution uses a class named `Main`, so copy the code into a file named `Main.java`, then run it in one of two ways:
+
+```bash
+# Option 1 (Java 11+): compile and run in one step, no .class file created
+java Main.java
+
+# Option 2: compile first, then run (creates Main.class)
+javac Main.java
+java Main
+```
+
+> 💡 `.class` files are build output and are ignored by `.gitignore`, so they never get committed.
 
 ## 📌 Tips for Success
 - Start with fundamentals before moving to advanced problems.
